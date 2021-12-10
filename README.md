@@ -2,6 +2,7 @@
 
   I'm interested in HTML, CSS, JAVASCRIPT. But I'm trying to improve myself. I want to be learn several programming languages later. Now, i aim to be better than what I know. So stay tuned.
 
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 <!--
 **damla-yildirim/damla-yildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
