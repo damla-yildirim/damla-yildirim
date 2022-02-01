@@ -1,6 +1,6 @@
 ### Hi Welcome ✨
 
-## I'm Jr. Front-end Developer 👩‍💻, FreeLancer 🆓 and Blogger ✍
+## I'm Damla Yıldırım
 - 👨‍🎓 I'm graduate of <i>Management Information Systems</i>
 - 👩‍💻 I'm trying to improve myself.
 - 💪 I aim to be better than what I know.
