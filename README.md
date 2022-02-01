@@ -28,11 +28,11 @@ So stay tuned...
 </br>
   
 ## 🔭 I want to learn
+<img align="left" alt="Jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg" />
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg" />
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" />
 
 
 <!--
