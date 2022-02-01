@@ -10,7 +10,7 @@ So stay tuned...
 - My hobbies're walking 🚶🏽‍♀️, swimming 🏊‍♀️, Sudoku 📝, computer games 🕹️, reading 📚, hiking 🏞️, Films and series 📽️
 - I have a cat 😻 🐈
 
-## Connect with me
+## 📞 Connect with me
 <a href="https://kodcu.online/" target="blank"><img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/damla-yldrm/" target="blank"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/yasiyoamayildi" target="blank"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
