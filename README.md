@@ -4,11 +4,10 @@
 - 👨‍🎓 I'm graduate of <i>Management Information Systems</i>
 - 👩‍💻 I'm trying to improve myself.
 - 💪 I aim to be better than what I know.
-
-        So stay tuned...
-
 - My hobbies're walking 🚶🏽‍♀️, swimming 🏊‍♀️, Sudoku 📝, computer games 🕹️, reading 📚, hiking 🏞️, Films and series 📽️
 - I have a cat 😻 🐈
+
+So stay tuned...
 
 ## 📞 Connect with me
 <a href="https://kodcu.online/" target="blank"><img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
