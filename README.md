@@ -10,9 +10,9 @@
 So stay tuned...
 
 ## 📞 Connect with me
-<a href="https://kodcu.online/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152289456-5c895e34-a16e-4a41-93f2-7072779407c7.png" alt="" width="32px" /></a>
-<a href="https://www.linkedin.com/in/damla-yldrm/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152289880-c99bd2ee-3e7c-4e0d-bc16-a6009834635d.png" alt="" width="32px" /></a> 
-<a href="https://twitter.com/yasiyoamayildi" target="blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152290046-6135955d-933f-4b5d-af54-aa2ff6006b08.png" alt="" width="32px" /></a>
+<a href="https://kodcu.online/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152289456-5c895e34-a16e-4a41-93f2-7072779407c7.png" alt="" width="32px" /></a>
+<a href="https://www.linkedin.com/in/damla-yldrm/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152289880-c99bd2ee-3e7c-4e0d-bc16-a6009834635d.png" alt="" width="32px" /></a> 
+<a href="https://twitter.com/yasiyoamayildi" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152290046-6135955d-933f-4b5d-af54-aa2ff6006b08.png" alt="" width="32px" /></a>
 </br>
 
 ## 🔧 Languages and Tools
