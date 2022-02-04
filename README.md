@@ -18,8 +18,8 @@ So stay tuned...
 ## 🔧 Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/72522469/152290357-432e5765-23bf-4a0d-ba07-868cb792c0ca.png" />
-<img align="left" alt="HTML5" width="28px" src="https://user-images.githubusercontent.com/72522469/152290602-c79089ab-0505-4a57-aeb2-062220c41871.png" />
-<img align="left" alt="CSS3" width="28px" src="https://user-images.githubusercontent.com/72522469/152290746-8603a872-34b9-4f22-b479-163a13eef810.png" />
+<img align="left" alt="HTML5" width="30px" src="https://user-images.githubusercontent.com/72522469/152290602-c79089ab-0505-4a57-aeb2-062220c41871.png" />
+<img align="left" alt="CSS3" width="30px" src="https://user-images.githubusercontent.com/72522469/152290746-8603a872-34b9-4f22-b479-163a13eef810.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/72522469/152290886-0075ad99-4fc7-41d0-93a3-169947d1f74a.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/72522469/152290952-c0e749a4-3d0c-4f90-ab03-153a611668a7.png" />
 
