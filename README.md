@@ -5,7 +5,7 @@
 - 👩‍💻 I'm trying to improve myself.
 - 💪 I aim to be better than what I know.
 - My hobbies're walking 🚶🏽‍♀️, swimming 🏊‍♀️, Sudoku 📝, computer games 🕹️, reading 📚, hiking 🏞️, Films and series 📽️
-- I have a cat 😻 🐈
+- Cat lover 😻 🐈
 
 So stay tuned...
 
