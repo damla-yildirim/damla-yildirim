@@ -21,6 +21,7 @@ So stay tuned...
 <img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/60/000000/css3.png" />
 <img align="left" alt="Bootstrap" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="JQuery" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" />
 </br>
 
 
