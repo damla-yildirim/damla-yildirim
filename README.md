@@ -2,10 +2,6 @@
 
 ## I'm Damla Yıldırım
 - 👨‍🎓 I'm graduate of <i>Management Information Systems</i>
-- 👩‍💻 I'm trying to improve myself.
-- 💪 I aim to be better than what I know.
-- My hobbies're walking 🚶🏽‍♀️, swimming 🏊‍♀️, Sudoku 📝, computer games 🕹️, reading 📚, hiking 🏞️, Films and series 📽️
-- Cat lover 😻 🐈
 
 So stay tuned...
 
