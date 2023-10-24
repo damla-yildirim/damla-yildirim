@@ -15,6 +15,7 @@ Stay tuned...
 <img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/60/000000/css3.png" />
+<img align="left" alt="sass" width="32px" src="https://img.icons8.com/color/48/sass.png" />
 <img align="left" alt="Bootstrap" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
 <img align="left" alt="JQuery" width="27px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" />
