@@ -30,8 +30,6 @@
 <img align="left" alt="GraphQL" width="32px" src="https://img.icons8.com/color/48/000000/graphql.png" />
 </br>
 </br>
-</br>
-</br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=damla-yildirim&theme=radical)
 
