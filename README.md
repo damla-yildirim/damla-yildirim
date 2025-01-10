@@ -1,9 +1,9 @@
-### Hi Welcome ✨
+### Hi Welcome ✨ ![](https://komarev.com/ghpvc/?username=damlacoder&color=yellow)
 
 ## I'm Damla Yıldırım
 - 👨‍🎓 I'm graduate of <i>Management Information Systems</i>
 
-## 📞 Connect with me ![](https://komarev.com/ghpvc/?username=damlacoder&color=yellow)
+## 📞 Connect with me 
 <a href="https://www.linkedin.com/in/damla-yldrm/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152289880-c99bd2ee-3e7c-4e0d-bc16-a6009834635d.png" alt="" width="32px" /></a> 
 <a href="https://twitter.com/yasiyoamayildi" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152290046-6135955d-933f-4b5d-af54-aa2ff6006b08.png" alt="" width="32px" /></a>
 <a href="https://www.instagram.com/livewithdamla?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img align="left" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" width="38px" /></a>
@@ -29,7 +29,9 @@
 <img align="left" alt="Vue.js" width="32px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 <img align="left" alt="GraphQL" width="32px" src="https://img.icons8.com/color/48/000000/graphql.png" />
 </br>
-
+</br>
+</br>
+</br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=damla-yildirim&theme=radical)
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=damla-yildirim&layout=compact)](https://wakatime.com/)
 
