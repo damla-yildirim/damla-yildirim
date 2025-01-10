@@ -32,8 +32,8 @@
 </br>
 </br>
 </br>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=damla-yildirim&theme=radical)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=damla-yildirim&layout=compact)](https://wakatime.com/)
 
 <!--
 **damla-yildirim/damla-yildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
