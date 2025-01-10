@@ -29,6 +29,8 @@
 <img align="left" alt="Vue.js" width="32px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 <img align="left" alt="GraphQL" width="32px" src="https://img.icons8.com/color/48/000000/graphql.png" />
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=damla-yildirim&theme=radical)
+
 <!--
 **damla-yildirim/damla-yildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
