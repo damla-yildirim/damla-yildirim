@@ -32,7 +32,7 @@
 </br>
 </br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=damla-yildirim&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=damla-yildirim&theme=algolia&hide_border=&short_numbers=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **damla-yildirim/damla-yildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
